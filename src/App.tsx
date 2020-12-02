@@ -176,7 +176,7 @@ function App() {
     <div className='App'>
       <Header />
 
-      <div className='container'>
+      <div className='container-fluid'>
         <div className='row'>
           <div className='col-sm input'>
             <h3>Markdown</h3>

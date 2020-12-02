@@ -6,4 +6,4 @@ Simple Markdown Editor build with React and [Remarkable](https://www.npmjs.com/p
 
 ![screenshot](./screenshot.gif)
 
-### [Demo](https://react-material-ui-step-form.vercel.app/)
+### [Demo](https://react-markdown-parser.vercel.app/)
